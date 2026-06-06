@@ -102,6 +102,6 @@ Fields that don't apply are filled as empty strings.
 - 10,000 rows per chunk simulates a realistic data stream
 - Weight and category match is considered sufficient for PatId1
 - Gender imbalance logic in PatId3 considers only 'F' and 'M'
-- Only new files (not in processed\_chunks) are picked for pattern detection
+- Only new files (not in processed\_chunks) are picked for pattern detection.
 
 
