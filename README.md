@@ -1,5 +1,3 @@
-# PySpark Data Engineer Assignment - Aswanth Lal
-
 ## Overview
 
 This project simulates a streaming transaction pipeline using Databricks PySpark, AWS S3, and PostgreSQL. It involves two main mechanisms:
